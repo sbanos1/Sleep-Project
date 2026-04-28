@@ -1,2 +1,3 @@
 # Sleep-Project
-Machine Learning using R
+This project applies machine learning and statistical classification techniques to predict sleep disorders using health and lifestyle data. Using the Sleep Health and Lifestyle Dataset, the analysis explores how factors such as sleep duration, stress level, physical activity, BMI, heart rate, and occupation relate to sleep outcomes. The primary goal is to build a reliable classification model that can distinguish between individuals with no disorder, insomnia, or sleep apnea while also identifying which predictors have the greatest influence on those outcomes. Through exploratory data analysis, feature engineering, cross-validation, and model comparison, the project combines predictive modeling with interpretive insights to better understand the patterns associated with sleep health. 
+
